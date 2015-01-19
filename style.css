@@ -28,11 +28,18 @@ body {
 
 h1 {
 
+<<<<<<< HEAD
 	margin : 0px 0px 24px 0px;
 	padding : 0px;
 	font-size : 32px;
 	padding : 8px 12px;
 	background-color : #f0f0ea;
+=======
+	margin : 0px 0px 8px 0px;
+	padding : 4px 8px;
+	font-size : 32px;
+	background-color : #f2f2f2;
+>>>>>>> origin/gh-pages
 }
 
 p {
