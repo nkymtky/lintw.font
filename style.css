@@ -3,7 +3,8 @@
 @font-face {
 
     font-family : "LintwBasic";
-    src : url("./LintwBasic/1.00/LintwBasic.ttf") format("TrueType");
+    src : url("./LintwBasic/1.10/LintwBasic.ttf") format("TrueType"),
+          url("./LintwBasic/1.10/LintwBasic.woff") format("Woff");
 }
 
 .lintwese {
