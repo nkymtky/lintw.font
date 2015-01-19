@@ -1,0 +1,39 @@
+﻿@charset "utf-8";
+
+@font-face {
+
+    font-family : "LintwBasic";
+    src : url("./LintwBasic/1.00/LintwBasic.ttf") format("TrueType");
+}
+
+.lintwese {
+
+	font-size : 64px;
+	font-weight : normal;
+}
+
+.basic {
+
+	font-family : "LintwBasic";
+}
+
+body {
+
+	font-family : "Times New Roman", Serif;
+	font-weight : normal;
+	padding : 24px;
+	line-height : 1;
+}
+
+h1 {
+
+	margin : 0px 0px 8px 0px;
+	padding : 0px;
+	font-size : 32px;
+}
+
+p {
+
+	margin : 0px;
+	padding : 0px;
+}
