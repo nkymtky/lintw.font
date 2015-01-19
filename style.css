@@ -21,16 +21,18 @@
 body {
 
 	font-family : "Times New Roman", Serif;
-	font-weight : normal;
 	padding : 24px;
 	line-height : 1;
+	background-color : #f9f9f2;
 }
 
 h1 {
 
-	margin : 0px 0px 8px 0px;
+	margin : 0px 0px 24px 0px;
 	padding : 0px;
 	font-size : 32px;
+	padding : 8px 12px;
+	background-color : #f0f0ea;
 }
 
 p {
