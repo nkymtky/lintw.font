@@ -7,17 +7,6 @@
           url("./LintwBasic/1.10/LintwBasic.woff") format("Woff");
 }
 
-.lintwese {
-
-	font-size : 64px;
-	font-weight : normal;
-}
-
-.basic {
-
-	font-family : "LintwBasic";
-}
-
 body {
 
 	font-family : "Times New Roman", Serif;
@@ -39,4 +28,30 @@ p {
 
 	margin : 0px;
 	padding : 0px;
+}
+
+.lintwese {
+
+	font-size : 64px;
+	font-weight : normal;
+}
+
+.basic {
+
+	font-family : "LintwBasic";
+}
+
+.serif {
+
+	font-family : "LintwSerif";
+}
+
+.gothic {
+
+	font-family : "LintwGothic";
+}
+
+.ultrabold {
+
+	font-family : "LintwUltraBold";
 }
