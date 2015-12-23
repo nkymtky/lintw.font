@@ -2,16 +2,14 @@
 
 @font-face {
 
-    font-family : "LintwBasic";
-    src : url("./LintwBasic/1.10/LintwBasic.ttf") format("TrueType"),
-          url("./LintwBasic/1.10/LintwBasic.woff") format("Woff");
+    font-family : "LintwBasicWeb";
+    url("LintwBasic/1.11/LintwBasic.woff") format("Woff");
 }
 
 @font-face {
 
-    font-family : "LintwToy";
-    src : url("./LintwUltraBold/1.00/LintwToy.ttf") format("TrueType"),
-          url("./LintwUltraBold/1.00/LintwToy.woff") format("Woff");
+    font-family : "LintwToyWeb";
+    url("LintwToy/1.00/LintwToy.woff") format("Woff");
 }
 
 body {
@@ -45,20 +43,20 @@ p {
 
 .basic {
 
-	font-family : "LintwBasic";
+	font-family : "LintwBasicWeb";
 }
 
 .serif {
 
-	font-family : "LintwSerif";
+	font-family : "LintwSerifWeb";
 }
 
 .gothic {
 
-	font-family : "LintwGothic";
+	font-family : "LintwGothicWeb";
 }
 
 .toy {
 
-	font-family : "LintwToy";
+	font-family : "LintwToyWeb";
 }
