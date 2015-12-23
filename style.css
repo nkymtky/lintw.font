@@ -7,17 +7,24 @@
           url("./LintwBasic/1.10/LintwBasic.woff") format("Woff");
 }
 
+@font-face {
+
+    font-family : "LintwToy";
+    src : url("./LintwUltraBold/1.00/LintwToy.ttf") format("TrueType"),
+          url("./LintwUltraBold/1.00/LintwToy.woff") format("Woff");
+}
+
 body {
 
 	font-family : "Times New Roman", Serif;
-	padding : 24px;
+	padding : 0px 24px 24px 24px;
 	line-height : 1;
 	background-color : #f9f9f2;
 }
 
 h1 {
 
-	margin : 0px 0px 24px 0px;
+	margin : 24px 0px 24px 0px;
 	padding : 0px;
 	font-size : 32px;
 	padding : 8px 12px;
@@ -51,7 +58,7 @@ p {
 	font-family : "LintwGothic";
 }
 
-.ultrabold {
+.toy {
 
-	font-family : "LintwUltraBold";
+	font-family : "LintwToy";
 }
