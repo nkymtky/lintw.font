@@ -3,13 +3,13 @@
 @font-face {
 
     font-family : "LintwBasicWeb";
-    src: url("LintwBasic/1.11/LintwBasic.woff") format("Woff");
+    src: url("LintwBasic/1.20/LintwBasic.woff") format("Woff");
 }
 
 @font-face {
 
     font-family : "LintwToyWeb";
-    src: url("LintwToy/1.00/LintwToy.woff") format("Woff");
+    src: url("LintwToy/1.10/LintwToy.woff") format("Woff");
 }
 
 body {
